@@ -34,5 +34,6 @@ Ogni evento ha una sezione dedicata con:
 - eventuali link utili e risorse aggiuntive
 
 Inizia esplorando il primo grande evento disponibile:
-➡️ **DevFest Mediterranean 2025**
+
+➡️ **[DevFest Mediterranean 2025](https://github.com/salvino72/GDG-Nebrodi/tree/main/devfest-mediterranean-2025)**
 
